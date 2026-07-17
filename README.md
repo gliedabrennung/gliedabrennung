@@ -13,7 +13,7 @@
 
 ## 🎯 About
 
-Third-year student at **Kazakh-British Technical University** with **20 months** of hands-on experience in Go and Python development. Passionate about clean architecture, high-performance systems, and pragmatic automation. Actively seeking positions to apply deep technical knowledge to production environments.
+SWE with **20 months** of hands-on experience in Go and Python development. Passionate about clean architecture, high-performance systems, and pragmatic automation. Actively seeking positions to apply deep technical knowledge to production environments.
 
 **Specialization:** Server-side application development, backend architecture, consensus algorithms, real-time systems.
 
