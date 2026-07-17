@@ -13,53 +13,9 @@
 
 ## 🎯 About
 
-Third-year student at **Kazakh-British Technical University** with **18 months** of hands-on experience in Go and Python development. Passionate about clean architecture, high-performance systems, and pragmatic automation. Actively seeking internship or junior positions to apply deep technical knowledge to production environments.
+Third-year student at **Kazakh-British Technical University** with **20 months** of hands-on experience in Go and Python development. Passionate about clean architecture, high-performance systems, and pragmatic automation. Actively seeking positions to apply deep technical knowledge to production environments.
 
 **Specialization:** Server-side application development, backend architecture, consensus algorithms, real-time systems.
-
----
-
-## 🚀 Featured Projects
-
-### **Notionist** — Telegram × Notion Automation
-*Intelligent task management at your fingertips*
-
-- **Tech:** Go, Google Agent Development Kit, Google GenAI, Telegram Bot API
-- **What it does:** Seamlessly manipulate tasks in your Notion workspace through Telegram, transforming technical specifications into structured Kanban workflows
-- **Why it matters:** Demonstrates proficiency with LLM agents, API integration, and user-centric automation
-
-**Repository:** [github.com/gliedabrennung/notionist](https://github.com) *(link here)*
-
----
-
-### **Sedna** — High-load Messenger Backend
-*Production-ready chat infrastructure*
-
-- **Tech:** Go, Hertz, PostgreSQL, ScyllaDB, Redis, WebSocket
-- **Architecture:** Clean layered architecture with separation of concerns
-- **Features:**
-  - 1-to-1 real-time messaging
-  - Horizontal scalability with Redis caching
-  - Persistent storage on PostgreSQL + ScyllaDB
-  - WebSocket-based real-time communication
-- **Why it matters:** Demonstrates understanding of distributed systems, database trade-offs, and building production-grade backends
-
-**Repository:** [github.com/gliedabrennung/sedna](https://github.com) *(link here)*
-
----
-
-### **Raft Consensus Algorithm** — Distributed Systems Implementation
-*From theory to working code*
-
-- **Tech:** Go, Docker
-- **Implements:**
-  - Leader election with restriction rules
-  - Log replication and compaction
-  - Persistent state with configurable snapshots
-  - Flexible configuration via Raftfile
-- **Why it matters:** Deep understanding of consensus, fault tolerance, and the foundations of distributed databases
-
-**Repository:** [github.com/gliedabrennung/raft](https://github.com) *(link here)*
 
 ---
 
@@ -70,9 +26,9 @@ Third-year student at **Kazakh-British Technical University** with **18 months**
 | **Languages** | Go, Python, Bash, SQL |
 | **LLM / Agents** | Google ADK, LangGraph |
 | **Databases** | PostgreSQL, MySQL, ScyllaDB, Redis |
-| **Frameworks** | Hertz (Go web framework) |
+| **Frameworks** | net/http based, fasthttp |
 | **Infrastructure** | Docker, Git |
-| **Protocols** | WebSocket, REST, gRPC (experience) |
+| **Protocols** | WebSocket, REST, gRPC |
 
 ---
 
@@ -83,15 +39,6 @@ Third-year student at **Kazakh-British Technical University** with **18 months**
 ✅ **Polyglot approach** — Go for performance, Python for rapid automation  
 ✅ **Database expertise** — SQL, NoSQL, distributed stores, caching strategies  
 ✅ **Modern tooling** — Docker containerization, version control, CI/CD basics  
-
----
-
-## 📚 Currently Learning
-
-- Advanced Go concurrency patterns and memory optimization
-- Microservices architecture and service mesh (Istio, Linkerd)
-- Event-driven systems and message brokers (Kafka, NATS)
-- gRPC and protocol buffers
 
 ---
 
