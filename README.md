@@ -7,7 +7,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-336791?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-7+-DC382D?style=flat-square&logo=redis)
 
-**Almaty, Kazakhstan** • [diasdias13.08@gmail.com](mailto:diasdias13.08@gmail.com) • [+7 (708) 234–10–47](tel:+77082341047)
+**Almaty, Kazakhstan** • [diasdias13.08@gmail.com](mailto:diasdias13.08@gmail.com)
 
 ---
 
@@ -45,7 +45,6 @@ Third-year student at **Kazakh-British Technical University** with **20 months**
 ## 📧 Get in Touch
 
 💌 **Email:** [diasdias13.08@gmail.com](mailto:diasdias13.08@gmail.com)  
-📱 **Phone:** +7 (708) 234–10–47  
 📍 **Location:** Almaty, Kazakhstan
 
 Open to discussions about internships, junior roles, and collaborative projects.
