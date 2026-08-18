@@ -32,16 +32,6 @@ SWE with **20 months** of hands-on experience in Go and Python development. Pass
 
 ---
 
-## 🔥 What I Bring
-
-✅ **Architecture-first mindset** — Clean code, SOLID principles, layered design  
-✅ **Production experience** — Real-world optimization, debugging under load  
-✅ **Polyglot approach** — Go for performance, Python for rapid automation  
-✅ **Database expertise** — SQL, NoSQL, distributed stores, caching strategies  
-✅ **Modern tooling** — Docker containerization, version control, CI/CD basics  
-
----
-
 ## 📧 Get in Touch
 
 💌 **Email:** [diasdias13.08@gmail.com](mailto:diasdias13.08@gmail.com)  
